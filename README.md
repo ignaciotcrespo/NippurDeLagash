@@ -9,61 +9,62 @@ http://www.robinwoodcomics.org/suspersonajes/index.php?id=1
 
 Estas primeras historias realizadas por Wood y Olivera se publicaron originalmente, en blanco y negro, en la revista D'Artagnan. En ellas se presentan a los personajes que acompañarán a Nippur a lo largo de su vida y se plantean los conflictos que el protagonista deberá ir resolviendo con los años. Los primeros siete episodios son historias unitarias protagonizadas por Nippur de Lagash y Ur-El de Elam, quienes se ven obligados a abandonar Lagash -ciudad en la que Nippur era general- debido a la traicionera invasión del rey Luggal-Zaggizi de Umma. Los amigos, tras jurar venganza, se largan a los caminos y viven emocionantes aventuras: ayudan a Teseo de Atenas a vencer al Minotauro, consiguen enemistarse a muerte con los hititas -cosa que les traerá en el futuro grandes dolores de cabeza-, y Nippur conoce y se enamora de Nofretamón, princesa de Egipto, a quien debe renunciar por orgullo. Recién a partir del episodio número ocho, puede leerse "Nippur de Lagash" antes del título de la historia de turno. Son dos los hechos determinantes de este período: primero, Nippur y Ur-El conocen a Sargón, actual copero del rey de Akkad, el hombre que, como bien sabe aquel que haya un leído un poquito de historia, convulsionará el mundo conocido en el siglo XXIV A.C.; segundo, Ur-El abandona los caminos y a Nippur para vivir apaciblemente en la ciudad de Merem, casándose con la reina del lugar. Tras esto, el sumerio comienza a labrarse una sólida fama de hombre sabio y justo, caminante solitario y destacado militar. Bastante maltratado por la vida, tras escaparle a un destino de esclavo, decide evitar la compañía humana viviendo en desiertos y bosques.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
-| :---: | :---: | :---: | :---: | :---: |
-|  1 | Historia para Lagash | Robin Wood | Lucho Olivera |  |
-|  2 | Nofretamon | Robin Wood | Lucho Olivera |  |
-|  3 | Las lanzas y la arena | Robin Wood | Lucho Olivera |  |
-|  4 | Minotauro | Robin Wood | Lucho Olivera |  |
-|  5 | El mirlo voló primero | Robin Wood | Lucho Olivera |  |
-|  6 | La fugitiva de los hititas | Robin Wood | Lucho Olivera |  |
-|  9 | La flecha sobre las hogueras | Robin Wood | Lucho Olivera |  |
-|  7 | El Viejo | Robin Wood | Lucho Olivera |  |
-|  8 | En Garth, al atardecer | Robin Wood | Lucho Olivera |  |
-|  10 | El hombre que vino de Akad | Robin Wood | Lucho Olivera |  |
-|  11 | La doncella de la tierra de Merem | Robin Wood | Lucho Olivera |  |
-|  12 | Mi nombre entre los bárbaros | Robin Wood | Lucho Olivera |  |
-|  13 | Abajo... más abajo los buitres | Robin Wood | Lucho Olivera |  |
-|  14 | Un río llamado Lónemer | Robin Wood | Lucho Olivera |  |
-|  15 | Bajo un cielo de estrellas y pastores | Robin Wood | Lucho Olivera |  |
-|  16 | Hacia el mar | Robin Wood | Lucho Olivera |  |
-|   | Agria historia de mi esclavitud | Robin Wood | Lucho Olivera |  |
-|   | La furia de los dioses | Robin Wood | Lucho Olivera |  |
-|   | Leyenda del rey que muere | Robin Wood | Lucho Olivera |  |
-|   | El Cuervo | Robin Wood | Lucho Olivera |  |
-|   | La bruja | Robin Wood | Lucho Olivera |  |
-|   | Un día en que yo era feliz | Robin Wood | Lucho Olivera |  |
-|   | Cómo conocí y soporté a Ramar | Robin Wood | Lucho Olivera |  |
-|   | La justicia de Janipo | Robin Wood | Lucho Olivera |  |
-|   | El carro de estrellas | Robin Wood | Lucho Olivera |  |
-|   | El enviado        | Robin Wood | Lucho Olivera |  |
-|   | Ram, el arquero | Robin Wood | Lucho Olivera |  |
-|   | El dios negro y el hombre | Robin Wood | Lucho Olivera |  |
-|   | Un misterio llamado muerte | Robin Wood | Lucho Olivera |  |
-|   | Los fantasmas de sangre | Robin Wood | Lucho Olivera |  |
-|   | No mates al hombre, cazador | Robin Wood | Lucho Olivera |  |
-|   | Hombres, dioses y agua | Robin Wood | Lucho Olivera |  |
-|   | El ciego rey del sueño | Robin Wood | Lucho Olivera |  |
-|   | Yo vi a Gilgamesh buscando su muerte | Robin Wood | Lucho Olivera |  |
-|   | Ennam, el de los pantanos | Robin Wood | Lucho Olivera |  |
-|   | Oráculo | Robin Wood | Lucho Olivera |  |
-|   | Los guijarros de la muerte | Robin Wood | Lucho Olivera |  |
-|   | Crónica desesperante de Jacodeo | Robin Wood | Lucho Olivera |  |
-|   | El hombre necesario para Larsa | Robin Wood | Lucho Olivera |  |
-|   | La feria | Robin Wood | Lucho Olivera |  |
-|   | Las huellas del hombre de ojos amarillos | Robin Wood | Lucho Olivera |  |
-|   | Melodía de la flauta y el guerrero | Robin Wood | Lucho Olivera |  |
-|   | Recuerdo de los vagabundos | Robin Wood | Lucho Olivera |  |
-|   | Los sanguinarios perros del alma | Robin Wood | Lucho Olivera |  |
-|   | El gigante infernal | Robin Wood | Lucho Olivera |  |
-|   | Enathim y los enviados de la muerte | Robin Wood | Lucho Olivera |  |
-|   | La mala pasión | Robin Wood | Lucho Olivera |  |
-|   | El ladrón que hirió con miedo | Robin Wood | Lucho Olivera |  |
-|   | Los lobos y las ovejas | Robin Wood | Lucho Olivera |  |
-|   | Los sueños peligrosos | Robin Wood | Lucho Olivera |  |
-|   | La loba | Robin Wood | Lucho Olivera |  |
-|   | El juicio de la espada | Robin Wood | Lucho Olivera |  |
-|   | Los cortesanos y los guerreros | Robin Wood | Lucho Olivera |  |
+|  **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** | **capitulo<br/>D'Agostini** | **Fecha** | **Revista** | **Formato** | **Påginas** | **Tapa** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  Historia para Lagash | Robin Wood | Lucho Olivera | 1 | 1 | 1/5/1967 | D'Artagnan | Blanco y negro | 24 | Roja |
+|  Nofretamon | Robin Wood | Lucho Olivera | 1 | 2 | 1/8/1967 | D'Artagnan | Blanco y negro | 21 | Roja |
+|  Las lanzas y la arena | Robin Wood | Lucho Olivera | 1 | 3 | 1/10/1967 | D'Artagnan | Blanco y negro | 14 | Roja |
+|  Minotauro | Robin Wood | Lucho Olivera | 1 | 4 | 1/1/1968 | D'Artagnan | Blanco y negro | 14 | Roja |
+|  El mirlo voló primero | Robin Wood | Lucho Olivera | 1 | 5 | 1/2/1968 | D'Artagnan | Blanco y negro | 10 | Roja |
+|  La fugitiva de los hititas | Robin Wood | Lucho Olivera | 2 | 6 | 1/5/1968 | D'Artagnan | Blanco y negro | 14 | Azul |
+|  La flecha sobre las hogueras | Robin Wood | Lucho Olivera | 2 | 9 | 1/7/1968 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  El Viejo | Robin Wood | Lucho Olivera | 2 | 7 | 1/8/1968 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  En Garth, al atardecer | Robin Wood | Lucho Olivera | 2 | 8 | 1/11/1968 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  El hombre que vino de Akad | Robin Wood | Lucho Olivera | 2 | 10 | 1/10/1968 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  La doncella de la tierra de Merem | Robin Wood | Lucho Olivera | 2 | 11 | 1/1/1969 | D'Artagnan | Blanco y negro | 10 | Azul |
+|  Mi nombre entre los bárbaros | Robin Wood | Lucho Olivera | 2 | 12 | 1/2/1969 | D'Artagnan | Blanco y negro | 9 | Azul |
+|  Abajo... más abajo los buitres | Robin Wood | Lucho Olivera | 3 | 13 | 1/2/1969 | D'Artagnan | Blanco y negro | 10 | Verde |
+|  Un río llamado Lónemer | Robin Wood | Lucho Olivera | 3 | 14 | 1/5/1969 | D'Artagnan | Blanco y negro | 12 | Verde |
+|  Bajo un cielo de estrellas y pastores | Robin Wood | Lucho Olivera | 3 | 15 | 1/6/1969 | D'Artagnan | Blanco y negro | 12 | Verde |
+|  Hacia el mar | Robin Wood | Lucho Olivera | 3 | 16 | 1/6/1969 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  Agria historia de mi esclavitud | Robin Wood | Lucho Olivera | 3 | 17 | 1/7/1969 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  La furia de los dioses | Robin Wood | Lucho Olivera | 3 | 18 | 1/8/1969 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  Leyenda del rey que muere | Robin Wood | Lucho Olivera | 3 | 19 | 1/9/1969 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  El Cuervo | Robin Wood | Lucho Olivera | 3 | 20 | 1/10/1969 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  La bruja | Robin Wood | Lucho Olivera | 4 | 21 | 1/12/1969 | D'Artagnan | Blanco y negro | 10 | Roja |
+|  Un día en que yo era feliz | Robin Wood | Lucho Olivera | 4 | 22 | 1/11/1969 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  Cómo conocí y soporté a Ramar | Robin Wood | Lucho Olivera | 4 | 23 | 1/1/1970 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  La justicia de Janipo | Robin Wood | Lucho Olivera | 4 | 24 | 1/1/1970 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  El carro de estrellas | Robin Wood | Lucho Olivera | 4 | 25 | 1/2/1970 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  El enviado        | Robin Wood | Lucho Olivera | 4 | 26 | 1/3/1970 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  Ram, el arquero | Robin Wood | Lucho Olivera | 4 | 27 | 1/4/1970 | D'Artagnan | Blanco y negro | 10 | Roja |
+|  El dios negro y el hombre | Robin Wood | Lucho Olivera | 4 | 28 | 1/5/1970 | D'Artagnan | Blanco y negro | 10 | Roja |
+|  Un misterio llamado muerte | Robin Wood | Lucho Olivera | 5 | 29 | 1/6/1970 | D'Artagnan | Blanco y negro | 11 | Azul |
+|  Los fantasmas de sangre | Robin Wood | Lucho Olivera | 5 | 30 | 1/7/1970 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  No mates al hombre, cazador | Robin Wood | Lucho Olivera | 5 | 31 | 1/7/1970 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  Hombres, dioses y agua | Robin Wood | Lucho Olivera | 5 | 32 | 1/7/1970 | D'Artagnan | Blanco y negro | 12 | Azul |
+|  El ciego rey del sueño | Robin Wood | Lucho Olivera | 5 | 33 | 1/8/1970 | D'Artagnan | Blanco y negro | 11 | Azul |
+|  Yo vi a Gilgamesh buscando su muerte | Robin Wood | Lucho Olivera | 5 | 34 | 1/8/1970 | D'Artagnan | Blanco y negro | 11 | Azul |
+|  Ennam, el de los pantanos | Robin Wood | Lucho Olivera | 5 | 35 | 1/9/1970 | D'Artagnan | Blanco y negro | 10 | Azul |
+|  Oráculo | Robin Wood | Lucho Olivera | 6 | 36 | 1/9/1970 | D'Artagnan | Blanco y negro | 11 | Naranja |
+|  Los guijarros de la muerte | Robin Wood | Lucho Olivera | 6 | 37 | 1/10/1970 | D'Artagnan | Blanco y negro | 11 | Naranja |
+|  Crónica desesperante de Jacodeo | Robin Wood | Lucho Olivera | 6 | 38 | 1/11/1970 | D'Artagnan | Blanco y negro | 11 | Naranja |
+|  El hombre necesario para Larsa | Robin Wood | Lucho Olivera | 6 | 39 | 1/11/1970 | D'Artagnan | Blanco y negro | 12 | Naranja |
+|  La feria | Robin Wood | Lucho Olivera | 6 | 40 | 1/12/1970 | D'Artagnan | Blanco y negro | 11 | Naranja |
+|  Las huellas del hombre de ojos amarillos | Robin Wood | Lucho Olivera | 6 | 41 | 1/1/1971 | Anuario D'Artagnan | Color | 15 | Naranja |
+|  Melodía de la flauta y el guerrero | Robin Wood | Lucho Olivera | 6 | 42 | 1/2/1971 | D'Artagnan | Blanco y negro | 11 | Naranja |
+|  Recuerdo de los vagabundos | Robin Wood | Lucho Olivera | 6 | 43 | 1/3/1971 | D'Artagnan | Blanco y negro | 9 | Naranja |
+|  Los sanguinarios perros del alma | Robin Wood | Lucho Olivera | 7 | 44 | 1/4/1971 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  El gigante infernal | Robin Wood | Lucho Olivera | 7 | 45 | 1/5/1971 | D'Artagnan | Blanco y negro | 10 | Verde |
+|  Enathim y los enviados de la muerte | Robin Wood | Lucho Olivera | 7 | 46 | 1/6/1971 | D'Artagnan | Blanco y negro | 10 | Verde |
+|  La mala pasión | Robin Wood | Lucho Olivera | 7 | 47 | 1/7/1971 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  El ladrón que hirió con miedo | Robin Wood | Lucho Olivera | 7 | 48 | 1/7/1971 | D'Artagnan | Blanco y negro | 10 | Verde |
+|  Los lobos y las ovejas | Robin Wood | Lucho Olivera | 7 | 49 | 1/8/1971 | D'Artagnan | Blanco y negro | 11 | Verde |
+|  Los sueños peligrosos | Robin Wood | Lucho Olivera | 7 | 50 | 1/9/1971 | D'Artagnan | Blanco y negro | 12 | Verde |
+|  La loba | Robin Wood | Lucho Olivera | 7 | 51 | 1/10/1971 | D'Artagnan | Blanco y negro | 9 | Verde |
+|  El juicio de la espada | Robin Wood | Lucho Olivera | 8 | 52 | 1/11/1971 | D'Artagnan | Blanco y negro | 11 | Roja |
+|  Los cortesanos y los guerreros | Robin Wood | Lucho Olivera | 8 | 53 | 1/11/1971 | D'Artagnan | Blanco y negro | 11 | Roja |
+
 
 
 ### 2.- 1971/1972: La saga de los hititas en Egipto.
