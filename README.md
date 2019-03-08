@@ -221,3 +221,145 @@ El comic book de Nippur representa para Robin Wood un buen medio para darle form
 |  191 | La mujer de Siros | Robin Wood | Carlos Leopardi |  |
 
 
+## 1980-1988(en Revista Nippur Magnum)
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|  192 | Los que buscaron el valle | Robin Wood | Gómez Sierra |  |
+| --- | --- | --- | --- | :---: |
+|  193 | Astern | Robin Wood | Gómez Sierra |  |
+|  194 | El valle de los inocentes | Robin Wood | Gómez Sierra |  |
+|  195 | La espada de la humanidad | Robin Wood | Ricardo J. Villagrán |  |
+|  196 | Los matadores de Lusil | Robin Wood | Gómez Sierra |  |
+|  197 | Las flechas del dolor | Robin Wood | Gómez Sierra |  |
+|  198 | Ahoresh | Robin Wood | Gómez Sierra |  |
+|  199 | El monstruo | Robin Wood | Gómez Sierra |  |
+|  200 | El rey | Robin Wood | Gómez Sierra |  |
+|  201 | La cabeza de Ur-Naushé | Robin Wood | Gómez Sierra |  |
+|  202 | El pozo de las serpientes | Robin Wood | Ricardo Villagrán |  |
+|  203 | El hombre de los pantanos | Robin Wood | Jorge Zaffino |  |
+|  204 | La leona y el halcón | Robin Wood | Ricardo Villagrán |  |
+|  205 | La madre tierra | Robin Wood | Ricardo Villagrán |  |
+|  206 | La fosa de los demonios | Robin Wood | Ricardo Villagrán |  |
+|  207 | La cueva de Idimin | Robin Wood | Ricardo Villagrán |  |
+|  208 | Los pájaros muertos | Robin Wood | Ricardo Villagrán |  |
+|  210 | Net Paht, el egipcio | Robin Wood | Ricardo Villagrán |  |
+|  211 | Tebas | Robin Wood | Ricardo Villagrán |  |
+|  212 | El sumerio y la reina sin hombre | Robin Wood | Ricardo Villagrán |  |
+|  213 | Oro y sangre | Robin Wood | Ricardo Villagrán |  |
+|  214 | Nippur ha muerto en la batalla | Robin Wood | Ricardo Villagrán |  |
+|  215 | Ramsés | Robin Wood | Ricardo Villagrán |  |
+|  216 | Aneleh, en el esplendor de la batalla | Robin Wood | Ricardo Villagrán |  |
+|  209 | Un blanco desierto de muerte | Robin Wood | Ricardo Villagrán |  |
+|  217 | El Valle de los Reyes | Robin Wood | Ricardo Villagrán |  |
+|  218 | La cadena de oro | Robin Wood | Ricardo Villagrán |  |
+|  219 | Epílogo y comienzo | Robin Wood | Ricardo Villagrán |  |
+|  220 | Las serpientes que mueren | Robin Wood | Ricardo Villagrán |  |
+|  221 | Islene | Robin Wood | Ricardo Villagrán |  |
+|  222 | Mesilim y la mujer-diosa | Robin Wood | Ricardo Villagrán |  |
+|  223 | El velo de la memoria | Robin Wood | Ricardo Villagrán |  |
+|  224 | Regreso a Adad | Robin Wood | Ricardo Villagrán |  |
+|  225 | Naleh | Robin Wood | Ricardo Villagrán |  |
+|  226 | Azul cielo sumerio de muerte | Robin Wood | Ricardo Villagrán |  |
+|  227 | Pantanos de odio | Robin Wood | Ricardo Villagrán |  |
+|  229 | Las semillas | Robin Wood | Ricardo Villagrán |  |
+|  228 | Ciegos ojos del odio | Robin Wood | Ricardo Villagrán |  |
+|  230 | Ur - Marabam | Robin Wood | Ricardo Villagrán |  |
+|  231 | La espada incandescente | Robin Wood | Ricardo Villagrán |  |
+|  232 | La roca de los buitres | Robin Wood | Ricardo Villagrán |  |
+|  233 | Una realidad de flechas y muerte | Robin Wood | Ricardo Vilagrán |  |
+|  234 | El joven rey | Robin Wood | Ricardo Villagrán |  |
+|  235 | La princesa y los tres guerreros de Ur | Robin Wood | Ricardo Villagrán |  |
+|  236 | Aghar y Kabusim | Armando Fernández | Ricardo Villagrán |  |
+|  237 | La salvación de Hazar | Robin Wood | Ricardo Villagrán |  |
+|  238 | Eona y la noche del leproso | Robin Wood | Ricardo Villagrán |  |
+|  239 | El demonio y el perro guardián | Robin Wood | Ricardo Villagrán |  |
+|  240 | Laengrin | Robin Wood | Ricardo Villagrán |  |
+|  241 | La máscara del rencor | Denny Robson | Eduardo Barreto |  |
+|  242 | La implacable decisión | Denny Robson | Jorge Zaffino |  |
+|  244 | La hija de las lanzas | Robin Wood | Ricardo Villagrán |  |
+|  245 | La raza olvidada | Robin Wood | Ricardo Villagrán |  |
+|  246 | El nacimiento de fuego | Robin Wood | Ricardo Villagrán |  |
+|  247 | Los monumentos de gloria | Robin Wood | Gómez Sierra |  |
+|  248 | El mundo lunar | Robin Wood | Gómez Sierra |  |
+|  249 | Atardecer de sangre | Robin Wood | Gomez Sierra |  |
+|  250 | Ulagit | Robin Wood | Gomez Sierra |  |
+|  251 | La ciudad condenada | Robin Wood | Gomez Sierra |  |
+|  252 | El canto de las sirenas | Robin Wood | Gómez Sierra |  |
+|  253 | El caballo sagrado | Robin Wood | Gómez Sierra |  |
+|  254 | El fuego del recuerdo | Robin Wood | Gómez Sierra |  |
+|  255 | Los reyes de sangre | Robin Wood | Gómez Sierra |  |
+|  256 | El regreso de Harim | Robin Wood | Gómez Sierra |  |
+|  257 | El loco | Robin Wood | Gómez Sierra |  |
+|  258 | La cosecha negra | Robin Wood | Gómez Sierra |  |
+|  259 | Las estrellas del guerrero muerto | Robin Wood | Gómez Sierra |  |
+|  260 | Los precios terribles | Robin Wood | Gómez Sierra |  |
+|  261 | La maldición del recuerdo | Robin Wood | Gómez Sierra |  |
+|  262 | El signo de la serpiente | Robin Wood | Gómez Sierra |  |
+|  263 | Los senderos lunares | Robin Wood | Gómez Sierra |  |
+|  264 | Miranos | Robin Wood | Gómez Sierra |  |
+|  265 | La noche que fue | Robin Wood | Gómez Sierra |  |
+|  266 | Voz de la diosa-luna | Robin Wood | Gómez Sierra |  |
+|  267 | Los no-vivos | Robin Wood | Gómez Sierra |  |
+|  268 | Historia de hombres tuertos | Robin Wood | Gómez Sierra |  |
+|  269 | Los negros martillos de la memoria | Robin Wood | Gómez Sierra |  |
+|  270 | El símbolo | Robin Wood | Gómez Sierra |  |
+|  271 | Amintor | Robin Wood | Gómez Sierra |  |
+|  176 | Más allá de todo lo humano | Robin Wood | Gómez Sierra |  |
+|  273 | Por el fin de la guerra | Gustavo Amézaga | Gómez Sierra |  |
+|  272 | El día de la luz y de las sombras | Robin Wood | Gómez Sierra |  |
+|  274 | Leyenda de alta mar | Robin Wood | Gómez Sierra |  |
+|  275 | La justicia del agua | Robin Wood | Ricardo J. Villagrán |  |
+|  276 | Los verdugos | Robin Wood | Gómez Sierra |  |
+|  277 | El aullido de las lobas | Robin Wood | Gómez Sierra |  |
+|  278 | Stenka | Robin Wood | Gómez Sierra |  |
+|  279 | La lectora de las mentes | Robin Wood | Gómez Sierra |  |
+|  280 | La bailarina de Thera | Robin Wood | Gómez Sierra |  |
+|  281 | Mensaje de mi padre | Robin Wood | Gómez Sierra |  |
+|  282 | La batalla | Robin Wood | Gómez Sierra |  |
+|  283 | El instrumento del destino | Robin Wood | Gómez Sierra |  |
+|  284 | El río de las mujeres | Robin Wood | Gómez Sierra |  |
+|  285 | Regreso a Hiras | Robin Wood | Gómez Sierra |  |
+|  286 | Había una vez... | Robin Wood | Gómez Sierra |  |
+|  287 | De lobos y hombres | Robin Wood | Gómez Sierra |  |
+|  288 | Padre e hijo | Ricardo Ferrari | Gómez Sierra |  |
+|  289 | Junto al fuego | Ricardo Ferrari | Gómez Sierra |  |
+|  290 | La sangre y la flecha | Robin Wood | Gómez Sierra |  |
+|  291 | Abismos | Ricardo Ferrari | Gómez Sierra |  |
+|  292 | Fábula | Ricardo Ferrari | Gómez Sierra |  |
+|  293 | Paciencia | Ricardo Ferrari | Gómez Sierra |  |
+|  295 | El comienzo | Robin Wood | Ricardo J. Villagrán - Gómez Sierra |  |
+|  294 | Regreso a Lagash | Robin Wood | Ricardo J. Villagrán |  |
+|  296 | El hombre que mató al rey | Robin Wood | Ricardo J. Villagrán - Gómez Sierra |  |
+|  297 | La guerra ha comenzado | Robin Wood | Gómez Sierra - Ricardo J. Villagrán |  |
+|  298 | Una patria en el desierto | Ricardo Ferrari | Gómez Sierra |  |
+|  299 | Noche de masacre | Robin Wood | Gómez Sierra |  |
+|  300 | El hermano | Ricardo Ferrari | Gómez Sierra |  |
+|  301 | El sol de la resurrección | Robin Wood | Gómez Sierra |  |
+|  302 | Los enemigos amados | Robin Wood | Gómez Sierra |  |
+|  303 | Los de Merem | Robin Wood | Gómez Sierra |  |
+|  304 | El día del hombre que cantó | Robin Wood | Gómez Sierra |  |
+|  305 | Espada | Ricardo Ferrari | Gómez Sierra |  |
+|  306 | Hattusil y yo | Ricardo Ferrari | Gómez Sierra |  |
+|  307 | Hattusil | Ricardo Ferrari | Gómez Sierra |  |
+|  308 | La mujer que llegó desde el recuerdo | Robin Wood | Gómez Sierra |  |
+|  309 | El designio de los dioses | Robin Wood | Gómez Sierra |  |
+|  310 | La educación de Hiras | Robin Wood | Gómez Sierra |  |
+|  311 | La gloria de Berelim | Robin Wood | Gómez Sierra |  |
+|  312 | La noche de los buitres | Robin Wood | Gómez Sierra |  |
+|  313 | El templo nocturno | Robin Wood | Gómez Sierra |  |
+|  314 | Los tiranos del sueño | Robin Wood | Gómez Sierra |  |
+|  315 | Aluna | Robin Wood | Gómez Sierra |  |
+|  316 | Koa, la amazona | Robin Wood | Gómez Sierra |  |
+|  317 | El gran rey y el gran hombre | Robin Wood | Gómez Sierra |  |
+|  318 | El tambor de la muerte | Robin Wood | Gómez Sierra |  |
+|  319 | La guerra extraña | Robin Wood | Gómez Sierra |  |
+|  321 | El pueblo de la sal | Robin Wood | Gómez Sierra |  |
+|  320 | La grandiosa herejía | Robin Wood | Gómez Sierra |  |
+|  322 | Pacto de sangre | Gustavo Amézaga | Gómez Sierra |  |
+|  323 | El perro de los hielos | Gustavo Amézaga | Gómez Sierra |  |
+|  324 | La reina Sabbah | Gustavo Amézaga | Sergio Mulko |  |
+|  325 | Matador | Gustavo Amézaga | Sergio Mulko |  |
+|  326 | El hombre pájaro | Gustavo Amézaga | Sergio Mulko |  |
+
+
