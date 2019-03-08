@@ -9,7 +9,6 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |  1 | Historia para Lagash | Robin Wood | Lucho Olivera |  |
-| --- | --- | --- | --- | :---: |
 |  2 | Nofretamon | Robin Wood | Lucho Olivera |  |
 |  3 | Las lanzas y la arena | Robin Wood | Lucho Olivera |  |
 |  4 | Minotauro | Robin Wood | Lucho Olivera |  |
