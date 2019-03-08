@@ -151,3 +151,69 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | Historia de la vieja rebelión | Robin Wood | Lucho Olivera |  |  |
 |   | La espada de los muertos | Robin Wood | Sergio Mulko |  |  |
 
+## 1975-1979(en Revista D'Artagnan)
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|   | El pueblo del pantano | Robin Wood | Sergio Mulko |  |
+|   | Las amazonas de las tinieblas | Robin Wood | Sergio Mulko |  |
+|   | Los que buscan a Nippur | Robin Wood | Lucho Olivera |  |
+|   | La tierra olvidada | Robin Wood | Sergio Mulko |  |
+|  128 | Nar-Aman y la ciudad de Ishtar | Robin Wood | Lucho Olivera |  |
+|  129 | El Rey, la Reina y el General | Robin Wood | Lucho Olivera |  |
+|  130 | El juicio | Robin Wood | Sergio Mulko |  |
+|  131 | La Madre | Robin Wood | Sergio Mulko |  |
+|  132 | La mano de fuego | Robin Wood | Sergio Mulko |  |
+|  133 | Los reyes sin corona | Robin Wood | Lucho Olivera |  |
+|  134 | El hombre que mató a Situllah | Robin Wood | Carlos Leopardi |  |
+|  135 | El general y su ejército | Robin Wood | Sergio Mulko |  |
+|  136 | El rico y los pobres | Robin Wood | Sergio Mulko |  |
+|  137 | Los gemelos | Robin Wood | Carlos Leopardi |  |
+|  138 | La danzarina del toro | Robin Wood | Sergio Mulko |  |
+|  139 | Astrea | Robin Wood | Sergio Mulko | 22 |
+|  140 | Los escudos y el mar | Robin Wood | Leopardi | 22 |
+|  142 | El viejo rey y la paz | Robin Wood | Sergio Mulko | 22 |
+|  143 | Primero el vuelo del pinzón | Robin Wood | Carlos Leopardi | 22 |
+|  145 | Los bárbaros | Robin Wood | Sergio Alejandro Mulko | 23 |
+|  146 | El pueblo pacífico | Robin Wood | Sergio Mulko | 22 |
+|  148 | El gigante y el anciano | Robin Wood | Sergio Mulko | 23 |
+|  149 | El dios de piedra | Robin Wood | Sergio Mulko | 22 |
+|  150 | El amor de Ordar | Robin Wood | Gómez Sierra | 23 |
+|  153 | El infierno y el paraíso | Robin Wood | Ricardo Villagrán | 23 |
+|  154 | Laris, sobre el espejo del desierto | Robin Wood | Leopardi |  |
+|  155 | El maravilloso monstruo | Robin Wood | Carlos Leopardi |  |
+|  156 | Los cazadores y el miedo | Robin Wood | Carlos Leopardi |  |
+|  157 | La última galería | Robin Wood | Carlos Leopardi |  |
+|  158 | Los buitres de la muerte | Robin Wood | Carlos Leopardi | 25 |
+|  159 | Diez hombres libres | Robin Wood y Ricardo Ferrari | Gómez Sierra | 23 |
+|  160 | El tonto | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 23 |
+|  161 | Los perros del mar | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 24 |
+|  162 | Allá en la montaña de los lobos | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 24 |
+|  163 | La serpiente de la vida y la muerte | Wood-Ferrari | Jorge Zaffino | 24 |
+|  164 | La cadena | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 24 |
+|  165 | La puerta | Robin Wood - Ricardo Ferrari | Jorge Zaffino | 24 |
+|  166 | Muradín | Robin Wood | Jorge Zaffino | 25 |
+|  167 | El hitita | Robin Wood | Carlos Leopardi |  |
+|  168 | La doncella de oro | Robin Wood | Carlos Leopardi |  |
+|  169 | La furia de las mujeres | Robin Wood | Carlos Leopardi |  |
+|  170 | El hombre que no tenía muerte | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 24 |
+|  171 | Los pájaros de la poesía | Robin Wood | Carlos Leopardi |  |
+|  173 | El día de los fuegos muertos | Robin Wood y Ricardo Ferrari | Jorge Zaffino | 24 |
+|  174 | La criatura de la noche | Robin Wood | Carlos Leopardi |  |
+|  175 | La fuente | Robin Wood | Carlos Leopardi |  |
+|  177 | Leyenda de los Malditos | Robin Wood - Ricardo Ferrari | Gómez Sierra |  |
+|  178 | El dios de la caverna | Robin Wood | Carlos Leopardi |  |
+|  179 | La columna de los buitres | Robin Wood - Ricardo Ferrari | Jorge Zaffino | 25 |
+|  180 | El fuego y el hombre | Robin Wood | Carlos Leopardi |  |
+|  181 | Shekar | Robin Wood | Carlos Leopardi |  |
+|  183 | La sombra del desierto | Robin Wood | Carlos Leopardi |  |
+|  184 | Llegar a Akad | Robin Wood | Carlos Leopardi | 25 |
+|  185 | La gloria de Artamas | Robin Wood | Carlos Leopardi | 25 |
+|  186 | Kram y Niboram | Robin Wood | Carlos Leopardi | 25 |
+|  188 | Los hititas | Robin Wood | Carlos Leopardi |  |
+|  187 | El yugo roto | Robin Wood | Carlos Leopardi |  |
+|  190 | El demonio de las cuevas | Robin Wood | Carlos Leopardi |  |
+|  189 | Mormuran y el viejo soldado | Robin Wood | Carlos Leopardi |  |
+|  191 | La mujer de Siros | Robin Wood | Carlos Leopardi |  |
+
+
