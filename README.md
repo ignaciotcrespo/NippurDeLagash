@@ -3,7 +3,6 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 
 ## 1967/1972(en Revista D'Artagnan y Nippur de Lagash*)
 
-
 1.- 1967/1970: Primeros pasos del "Errante".<br/><br/>Estas primeras historias realizadas por Wood y Olivera se publicaron<br/>originalmente, en blanco y negro, en la revista D´artagnan; en ellas<br/>se presentan a los personajes que acompañarán a Nippur a lo largo de<br/>su vida y se plantean los conflictos que el protagonista deberá ir<br/>resolviendo con los años. Los primeros siete episodios son historias<br/>unitarias protagonizadas por Nippur de Lagash y Ur-El de Elam, tras<br/>verse obligados a abandonar Lagash - ciudad en la que Nippur era<br/>General - debido a la traicionera invasión del rey Luggal-Zaggizi de<br/>Umma. Los amigos, tras jurar venganza, se largan a los caminos y<br/>viven emocionantes aventuras: ayudan a Teseo de Atenas a vencer al<br/>Minotauro, consiguen enemistarse a muerte con los hititas - cosa que<br/>les traerá en el futuro grandes dolores de cabeza -, y Nippur conoce<br/>y se enamora de Nofretamón, princesa de Egipto, a quien debe<br/>renunciar por orgullo. Recién a partir del episodio número ocho,<br/>puede leerse "Nippur de Lagash" antes del título de la historia del<br/>turno. Son los hechos determinantes de este período: primero: Nippur<br/>y Ur-El conocen a Sargón, actual copero del rey de Akad, el hombre<br/>que, como bien sabe aquel que haya un leído un poquito de historia,<br/>convulsionará el mundo conocido en el siglo XXIV A.C.; segundo, Ur-<br/>El abandona los caminos y a Nippur para vivir apaciblemente en la<br/>ciudad de Merem, casándose con la reina del lugar. Tras esto, el<br/>sumerio comienza a labrarse una sólida fama de hombre sabio y justo,<br/>caminante solitario y destacado militar. Bastante maltratado por la<br/>vida, tras escaparle a un destino de esclavo, decide evitar la<br/>compañía humana viviendo en desiertos y bosques.
 
 |  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
@@ -95,4 +94,60 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | Un bosque con árboles de amor y muerte | Robin Wood | Sergio Mulko |  |
 |   | Hattusil | Robin Wood | Ricardo Villagrán |  |
 |   | La ciudad | Robin Wood | Sergio Mulko |  |
+
+
+## 1973-1974(en Revista D'Artagnan y Nippur de Lagash*)
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|   | Los niños que cabalgan en las estrellas | Robin Wood | Sergio Mulko |  |  |
+|   | Las flores de la muerte | Robin Wood | Sergio Mulko |  |  |
+|   | La noche de Dafar | Robin Wood | Ricardo Villagrán |  |  |
+|   | Una codicia color de escombro | Robin Wood | Ricardo Villagrán |  |  |
+|   | Cuando canta el pájaro de la mañana | Robin Wood | Ricardo Villagrán |  |  |
+|   | Leyenda de los monstruos | Robin Wood | Sergio Mulko |  |  |
+|   | La mujer de Hafiah | Robin Wood | Ricardo Villagrán |  |  |
+|   | Las flores de las montañas | Robin Wood | Ricardo Villagrán |  |  |
+|   | Los rivales | Robin Wood | Sergio Mulko |  |  |
+|   | Hipólita | Robin Wood | Ricardo Villagrán |  |  |
+|   | La doncella | Robin Wood | Ricardo Villagrán |  |  |
+|   | La casi muerte de Janos | Robin Wood | Sergio Mulko |  |  |
+|   | El jinete del sol | Robin Wood | Sergio Mulko |  |  |
+|   | Arón, el bueno | Robin Wood | Sergio Mulko |  |  |
+|   | Hattusil e Inim | Robin Wood | Ricardo Villagrán |  |  |
+|   | Cuando Tarkos era joven | Robin Wood | Sergio Mulko |  |  |
+|   | El hombre de guerra | Robin Wood | Ricardo Villagrán |  |  |
+|   | Rimas, el general | Robin Wood | Ricardo J. Villagrán |  |  |
+|   | El padre de Siros | Robin Wood | Ricardo J. Villagrán |  |  |
+|   | Udur y su hermano | Robin Wood | Sergio Mulko |  |  |
+|   | Historia al reflejo de una antorcha | Robin Wood | Ricardo Villagrán |  |  |
+|   | Ona, la hermosa | Robin Wood | Sergio Mulko |  |  |
+|   | Los mensajeros de Atenas | Robin Wood | Sergio Mulko |  |  |
+|   | Los que fueron a Atenas | Robin Wood | Sergio Mulko |  |  |
+|   | Los centauros | Robin Wood | Ricardo Villagrán |  |  |
+|   | La sirena | Robin Wood | Ricardo Villagrán |  |  |
+|   | Pylenor | Robin Wood | Sergio Mulko |  |  |
+|   | Teseo | Robin Wood | Sergio Mulko |  |  |
+|   | Menesteo o el amor por Atenas | Robin Wood | Sergio Mulko |  |  |
+|   | Una historia de amor | Robin Wood | Sergio Mulko |  |  |
+|   | El día de los escorpiones | Robin Wood | Ricardo Villagrán |  |  |
+|   | El día que los dioses enviaron la lluvia | Robin Wood | Ricardo Villagrán |  |  |
+|   | El gran torneo | Robin Wood | Ricardo J. Villagrán |  |  |
+|   | Las ánforas del odio | Robin Wood | Sergio Mulko |  |  |
+|   | Un marido para Nurima | Robin Wood | Sergio Mulko |  |  |
+|   | La Sacerdotisa | Robin Wood | Ricardo Villagrán |  |  |
+|   | La negra hoguera del sueño | Robin Wood | Ricardo Villagrán |  |  |
+|   | Níniver, que cantaba con los pájaros | Robin Wood | Sergio Mulko |  |  |
+|   | El hombre blanco de la montaña | Robin Wood | Sergio Mulko |  |  |
+|   | Aneleh | Robin Wood | Lucho Olivera |  |  |
+|   | El día del Jinete Negro | Robin Wood | Ricardo Villagrán |  |  |
+|   | La venganza inútil | Robin Wood | Sergio Mulko |  |  |
+|   | El buen rey y su pueblo | Robin Wood | Sergio Mulko |  |  |
+|   | El barco | Robin Wood | Ricardo J. Villagrán |  |  |
+|   | La amazona y la reina | Robin Wood | Sergio Mulko |  |  |
+|   | Camino de los sumerios | Robin Wood | Sergio Mulko |  |  |
+|   | La muchacha de los sueños | Robin Wood | Lucho Olivera |  |  |
+|   | Historia de dos hermanos y una mujer | Robin Wood | Sergio Mulko |  |  |
+|   | Historia de la vieja rebelión | Robin Wood | Lucho Olivera |  |  |
+|   | La espada de los muertos | Robin Wood | Sergio Mulko |  |  |
 
