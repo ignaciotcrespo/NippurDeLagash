@@ -226,7 +226,6 @@ El comic book de Nippur representa para Robin Wood un buen medio para darle form
 |  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |  192 | Los que buscaron el valle | Robin Wood | Gómez Sierra |  |
-| --- | --- | --- | --- | :---: |
 |  193 | Astern | Robin Wood | Gómez Sierra |  |
 |  194 | El valle de los inocentes | Robin Wood | Gómez Sierra |  |
 |  195 | La espada de la humanidad | Robin Wood | Ricardo J. Villagrán |  |
@@ -363,3 +362,139 @@ El comic book de Nippur representa para Robin Wood un buen medio para darle form
 |  326 | El hombre pájaro | Gustavo Amézaga | Sergio Mulko |  |
 
 
+## 1989-1998(en Revista Nippur Magnum y Skorpio*)
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|  327 | La Mujer de los Velos | Robin Wood | Sergio Mulko |  |
+|  328 | El heredero de la sangre | Robin Wood | Sergio Mulko |  |
+|  329 | Los saqueadores | Gustavo Amézaga | Sergio Mulko |  |
+|  330 | El jinete que vino del frío | Gustavo Amézaga | Sergio Mulko |  |
+|  331 | La suerte de Tarisis | Robin Wood | Sergio Mulko |  |
+|  332 | El precio de la inmortalidad | Robin Wood | Sergio Mulko |  |
+|  333 | El templo olvidado | Robin Wood | Sergio Mulko |  |
+|  334 | La amarga victoria | Gustavo Amézaga | Sergio Mulko |  |
+|  335 | Oráculo | Gustavo Amézaga | Sergio Mulko |  |
+|  336 | La nave | Robin Wood | Sergio Mulko |  |
+|  337 | El ojo del huracán | Gustavo Amézaga | Sergio Mulko |  |
+|  338 | Los Soñadores del Fuego | Robin Wood | Sergio Mulko |  |
+|  339 | De dioses y pasados | Gustavo Amézaga | Sergio Mulko |  |
+|  340 | El-Cruel | Ricardo Ferrari | Sergio Mulko |  |
+|  341 | El ataque a Umma | Robin Wood | Sergio Mulko |  |
+|  342 | La llamada de Lagash | Robin Wood | Sergio Mulko |  |
+|  343 | Kaana, la prisionera | Gustavo Amézaga | Sergio Mulko |  |
+|  344 | El círculo completo | Robin Wood | Sergio Mulko |  |
+|  345 | El llamado de Ugir | Denny Robson | Sergio Mulko |  |
+|  346 | La marcha hacia el sol | Robin Wood | Sergio Mulko |  |
+|  346 | El destino de Alunas | Robin Wood | Sergio Mulko |  |
+|  347 | Napistir | Robin Wood | Sergio Mulko |  |
+|  348 | Manara | Robin Wood | Sergio Mulko |  |
+|  349 | Lo que no se olvida | Robin Wood | Sergio Mulko |  |
+|  350 | La Viuda | Robin Wood | Sergio Mulko |  |
+|  351 | La flecha de oro | Robin Wood | Sergio Mulko |  |
+|  352 | La búsqueda | Robin Wood | Sergio Mulko |  |
+|  353 | Los caballos de fuego | Robin Wood | Sergio Mulko |  |
+|  354 | Las joyas de la venganza | Robin Wood | Sergio Mulko |  |
+|  355 | Los cabellos del tiempo | Robin Wood | Sergio Mulko |  |
+|  356 | El frío de víbora muerta | Robin Wood | Sergio Mulko |  |
+|  357 | El Gran Terror | Robin Wood | Ricardo J. Villagrán |  |
+|  358 | Las catacumbas | Robin Wood | Sergio Mulko |  |
+|  359 | Oona | Robin Wood | Sergio Mulko |  |
+|  361 | Las alas del odio | Héctor Bugatti | Sergio Mulko |  |
+|  362-B | El joven rey | Héctor Bugatti | Sergio Mulko |  |
+|  363 | El mendigo | Héctor Bugatti | Sergio Mulko |  |
+|  360 | La búsqueda del agua | Robin Wood | Sergio Mulko |  |
+|  364 | La ciudad del ayer | Robin Wood | Sergio Mulko |  |
+|  365 | La justicia incorruptible | Robin Wood | Sergio Mulko |  |
+|  367 | Bienmorir | Héctor Bugatti | Sergio Mulko |  |
+|  366 | El tiempo de la cosecha | Robin Wood | Sergio Mulko |  |
+|  368 | Los sobrevivientes de Koda-Bhor | Robin Wood | Sergio Mulko |  |
+|  369 | La locura de Radak | Robin Wood | Sergio Mulko |  |
+|  370 | La justicia del rey | Robin Wood | Sergio Mulko |  |
+|  371 | Los territorios de la juventud | Gustavo Amézaga | Sergio Mulko |  |
+|  372 | El curador | Robin Wood | Sergio Mulko |  |
+|  373 | Amonidal y la piedra negra | Gustavo Amézaga | Sergio Mulko |  |
+|  374 | Ahila | Gustavo Amézaga | Sergio Mulko |  |
+|  375 | El Amo del Fuego | Robin Wood | Sergio Mulko |  |
+|  376 | Los hijos de las Amazonas | Robin Wood | Sergio Mulko |  |
+|  377 | El arca | Robin Wood | Sergio Mulko |  |
+|  379 | El bebedor de sangre | Gustavo Amézaga | Sergio Mulko |  |
+|  378 | Como la herida de una espada | Gustavo Amézaga | Sergio Mulko |  |
+|  380 | Gerien | Robin Wood | Sergio Mulko |  |
+|  381 | La emisaria de la luna | Gustavo Amézaga | Sergio Mulko |  |
+|  382 | El secreto de la noche | Robin Wood | Sergio Mulko |  |
+|  383 | Canción de guerra | Robin Wood | Sergio Mulko |  |
+|  384 | Los misterios de Hiras | Robin Wood | Sergio Mulko |  |
+|  385 | Hishmitir, el bueno | Gustavo Amézaga | Sergio Mulko |  |
+|  386 | Assur y su nieta | Robin Wood | Sergio Mulko |  |
+|  387 | La diosa viviente | Robin Wood | Sergio Mulko |  |
+|  388 | Las pequeñas guerras | Néstor Barron | Sergio Mulko |  |
+|  389 | Laramar y los hombres | Néstor Barron | Sergio Mulko |  |
+|  391 | El pago de la deuda | Robin Wood | Sergio Mulko |  |
+|  390 | La dignidad de los reyes | Robin Wood | Sergio Mulko |  |
+|  392 | La tentación | Robin Wood | Sergio Mulko |  |
+|  393 | Por los buenos viejos tiempos | Gustavo Amézaga | Sergio Mulko |  |
+|  394 | La fuente | Robin Wood | Sergio Mulko |  |
+|  395 | El sueño | Robin Wood | Sergio Mulko |  |
+|  396 | Lamir | Robin Wood | Sergio Mulko |  |
+|  397 | El niño hombre | Gustavo Amézaga | Sergio Mulko |  |
+|  398 | Hattor | Gustavo Amézaga | Sergio Mulko |  |
+|  399 | Las madres | Robin Wood | Sergio Mulko |  |
+|  400 | Lara | Robin Wood | Sergio Mulko |  |
+|  401 | La Piedra | Robin Wood | Sergio Mulko |  |
+|  402 | Naman | Robin Wood | Sergio Mulko |  |
+|  403 | Sira | Robin Wood | Sergio Mulko |  |
+|  404 | Sira-Aris | Robin Wood | Sergio Mulko |  |
+|  405 | La hora del placer | Robin Wood | Sergio Mulko |  |
+|  406 | El salvador del rey | Robin Wood | Sergio Mulko |  |
+|  407 | La torre | Gustavo Amézaga | Sergio Mulko |  |
+|  408 | La carcajada de la nieve | Gustavo Amézaga | Sergio Mulko |  |
+|  409 | La victoria secreta | Robin Wood | Sergio Mulko |  |
+|  410 | Hadu Elim, el traidor | Gustavo Amézaga | Sergio Mulko |  |
+|  411 | Las rojas murallas de Lagash | Robin Wood | Sergio Mulko |  |
+|  412 | La última semilla | Robin Wood | Sergio Mulko |  |
+|  413 | Skorpia | Gustavo Amézaga | Sergio Mulko |  |
+|  414 | Las sombras | Robin Wood | Sergio Mulko |  |
+|  415 | La mano de Laramar | Gustavo Amézaga | Sergio Mulko |  |
+|  416 | Oración por Lagash | Robin Wood | Sergio Mulko |  |
+|  417 | El primer problema | Gustavo Amézaga | Sergio Mulko |  |
+|  418 | Los reyes solitarios | Robin Wood | Sergio Mulko |  |
+|  419 | El abismo de la vida | Gustavo Amézaga | Sergio Mulko |  |
+|  420 | La vida perdonada | Robin Wood | Sergio Mulko |  |
+|  421 | El mejor de los reyes | Gustavo Amézaga | Sergio Mulko |  |
+|  422 | Adios a Lagash | Robin Wood | Sergio Mulko |  |
+|  423 | Leyenda contada en invierno | Robin Wood | Müller |  |
+|  424 | El cuervo y la espada | Robin Wood | Müller |  |
+|  425 | La cadena | Robin Wood | Müller |  |
+|  426 | La niña y la serpiente en el oro | Robin Wood | Müller |  |
+|  427 | La reina | Robin Wood | Müller |  |
+|  428 | Nacimiento y muerte | Robin Wood | Müller |  |
+|  429 | El regreso | Robin Wood | Müller |  |
+|  430 | El sueño de Numasim | Robin Wood | Müller |  |
+|  431 | ¡Hermano! ¡Hermano! | Robin Wood | Müller |  |
+|  432 | La promesa de los dioses | Robin Wood | Müller |  |
+|  433 | La isla negra | Robin Wood | Müller |  |
+|  434 | El árbol y el sueño | Robin Wood | Müller |  |
+|  435 | La justicia del espectro | Robin Wood | Müller |  |
+|  436 | La belleza imposible | Robin Wood | Müller |  |
+|  437 | El Buscador | Robin Wood | Müller |  |
+|  438 | El Hombre de los Pájaros | Robin Wood | Müller |  |
+|  439 | La espera de la hiena | Robin Wood | Müller |  |
+|  440 | El magnífico rey | Robin Wood | Müller |  |
+|  441 | La torre | Robin Wood | Müller |  |
+|  443 | El destino demorado | Robin Wood | Müller |  |
+|  442 | Las guerras concéntricas | Gustavo Amézaga | Müller |  |
+|  444 | Un hombre llamado Nippur | Robin Wood | Müller |  |
+|  445 | La hija de Forkas | Robin Wood | Müller |  |
+|   | El puente y la moneda | Robin Wood | Walter Taborda |  |
+|  1 | El hechizo del horror | Robin Wood | Sergio Ibáñez |  |
+|  2 | Salia | Robin Wood | Sergio Ibáñez |  |
+|  3 | El día del rey ciego | Robin Wood | Sergio Ibáñez |  |
+
+
+## Otros
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|  1 | El joven Nippur | Robin Wood | Gabriel Rearte |  |
+|  2 | Los Sin-Tierra | Robin Wood | Gabriel Rearte |  |
