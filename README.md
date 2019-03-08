@@ -108,6 +108,11 @@ El comic book de Nippur representa para Robin Wood un buen medio para darle form
 
 ## 1973-1974(en Revista D'Artagnan y Nippur de Lagash*)
 
+### 4.- 1973/1974: La saga de la búsqueda de Teseo.
+http://www.robinwoodcomics.org/suspersonajes/index.php?id=1
+
+Esta segunda saga, dibujada por Ricardo Villagrán en el comic book y por Mulko en D’Artagnan, presenta a Nippur y sus amigos (Ur-El, Hattusil y Piritoos) buscando a Teseo, perdido en tierras desconocidas e ignorante de que en su ciudad, Atenas, un usurpador llamado Menesteo se ha hecho con la corona. La espectacular aventura termina con el regreso de los héroes, la muerte de Piritoos y la recuperación del trono ateniense para Teseo.
+
 |  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |   | Los niños que cabalgan en las estrellas | Robin Wood | Sergio Mulko |  |  |
