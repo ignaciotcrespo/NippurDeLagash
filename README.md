@@ -1,11 +1,13 @@
+
 # NippurDeLagash
 Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 
 ## 1967/1972(en Revista D'Artagnan y Nippur de Lagash*)
 
-1.- 1967/1970: Primeros pasos del "Errante".<br/><br/>Estas primeras historias realizadas por Wood y Olivera se publicaron<br/>originalmente, en blanco y negro, en la revista D´artagnan; en ellas<br/>se presentan a los personajes que acompañarán a Nippur a lo largo de<br/>su vida y se plantean los conflictos que el protagonista deberá ir<br/>resolviendo con los años. Los primeros siete episodios son historias<br/>unitarias protagonizadas por Nippur de Lagash y Ur-El de Elam, tras<br/>verse obligados a abandonar Lagash - ciudad en la que Nippur era<br/>General - debido a la traicionera invasión del rey Luggal-Zaggizi de<br/>Umma. Los amigos, tras jurar venganza, se largan a los caminos y<br/>viven emocionantes aventuras: ayudan a Teseo de Atenas a vencer al<br/>Minotauro, consiguen enemistarse a muerte con los hititas - cosa que<br/>les traerá en el futuro grandes dolores de cabeza -, y Nippur conoce<br/>y se enamora de Nofretamón, princesa de Egipto, a quien debe<br/>renunciar por orgullo. Recién a partir del episodio número ocho,<br/>puede leerse "Nippur de Lagash" antes del título de la historia del<br/>turno. Son los hechos determinantes de este período: primero: Nippur<br/>y Ur-El conocen a Sargón, actual copero del rey de Akad, el hombre<br/>que, como bien sabe aquel que haya un leído un poquito de historia,<br/>convulsionará el mundo conocido en el siglo XXIV A.C.; segundo, Ur-<br/>El abandona los caminos y a Nippur para vivir apaciblemente en la<br/>ciudad de Merem, casándose con la reina del lugar. Tras esto, el<br/>sumerio comienza a labrarse una sólida fama de hombre sabio y justo,<br/>caminante solitario y destacado militar. Bastante maltratado por la<br/>vida, tras escaparle a un destino de esclavo, decide evitar la<br/>compañía humana viviendo en desiertos y bosques.
+### 1.- 1967/1970: Primeros pasos del "Errante".
+Estas primeras historias realizadas por Wood y Olivera se publicaron originalmente, en blanco y negro, en la revista D´artagnan; en ellas se presentan a los personajes que acompañarán a Nippur a lo largo de su vida y se plantean los conflictos que el protagonista deberá ir resolviendo con los años. Los primeros siete episodios son historias unitarias protagonizadas por Nippur de Lagash y Ur-El de Elam, tras verse obligados a abandonar Lagash - ciudad en la que Nippur era General - debido a la traicionera invasión del rey Luggal-Zaggizi de Umma. Los amigos, tras jurar venganza, se largan a los caminos y viven emocionantes aventuras: ayudan a Teseo de Atenas a vencer al Minotauro, consiguen enemistarse a muerte con los hititas - cosa que les traerá en el futuro grandes dolores de cabeza -, y Nippur conoce y se enamora de Nofretamón, princesa de Egipto, a quien debe renunciar por orgullo. Recién a partir del episodio número ocho, puede leerse "Nippur de Lagash" antes del título de la historia del turno. Son los hechos determinantes de este período: primero: Nippur y Ur-El conocen a Sargón, actual copero del rey de Akad, el hombre que, como bien sabe aquel que haya un leído un poquito de historia, convulsionará el mundo conocido en el siglo XXIV A.C.; segundo, Ur- El abandona los caminos y a Nippur para vivir apaciblemente en la ciudad de Merem, casándose con la reina del lugar. Tras esto, el sumerio comienza a labrarse una sólida fama de hombre sabio y justo, caminante solitario y destacado militar. Bastante maltratado por la vida, tras escaparle a un destino de esclavo, decide evitar la compañía humana viviendo en desiertos y bosques.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |  1 | Historia para Lagash | Robin Wood | Lucho Olivera |  |
 |  2 | Nofretamon | Robin Wood | Lucho Olivera |  |
@@ -62,9 +64,10 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | Los cortesanos y los guerreros | Robin Wood | Lucho Olivera |  |
 
 
-2.- 1971/1972: La saga de los hititas en Egipto.<br/><br/>A lo largo de once episodios, transcurre la primera saga de Nippur.<br/>Dibuja los guiones de Wood, lucho Olivera; pero a partir del séptimo<br/>capítulo de la saga, se hará cargo de los dibujos Sergio Mulko, al<br/>principio bastante condicionado por seguir el estilo de Olivera,<br/>pero luego mucho más interesante al seguir su propio camino. En la<br/>historieta, Nippur regresa a Egipto, tras años de vagabundear por el<br/>mundo, para salvar la patria de su amada reina Nofretamón, que esta<br/>a punto de ser invadida por los ejércitos hititas. Al frente del<br/>débil ejército egipcio, Nippur consigue la victoria valiéndose, en<br/>primer término, de un grupo de selectos bandoleros, y después,<br/>consiguiendo la alianza de "Los Hombres de Fuego", una letal secta<br/>de sacerdotes-guerreros. Al terminar la guerra, una epidemia sacude<br/>a Egipto y mata a Nofretamón. Nippur, negándose a aceptar el trono<br/>egipcio, regresa a sus caminos con el corazón roto. Finalizada a la<br/>saga, la Editorial Columba lanza al mercado la revista "Nippur de<br/>Lagash", un comic book a todo color, con historias de Robin Wood<br/>brillantemente ilustradas por Ricardo Villagrán. Paralelamente,<br/>Nippur continúa apareciendo en D´artagnan pero con dibujos de Mulko<br/>y en blanco y negro.
+### 2.- 1971/1972: La saga de los hititas en Egipto.
+A lo largo de once episodios, transcurre la primera saga de Nippur. Dibuja los guiones de Wood, lucho Olivera; pero a partir del séptimo capítulo de la saga, se hará cargo de los dibujos Sergio Mulko, al principio bastante condicionado por seguir el estilo de Olivera, pero luego mucho más interesante al seguir su propio camino. En la historieta, Nippur regresa a Egipto, tras años de vagabundear por el mundo, para salvar la patria de su amada reina Nofretamón, que esta a punto de ser invadida por los ejércitos hititas. Al frente del débil ejército egipcio, Nippur consigue la victoria valiéndose, en primer término, de un grupo de selectos bandoleros, y después, consiguiendo la alianza de "Los Hombres de Fuego", una letal secta de sacerdotes-guerreros. Al terminar la guerra, una epidemia sacude a Egipto y mata a Nofretamón. Nippur, negándose a aceptar el trono egipcio, regresa a sus caminos con el corazón roto. Finalizada a la saga, la Editorial Columba lanza al mercado la revista "Nippur de Lagash", un comic book a todo color, con historias de Robin Wood brillantemente ilustradas por Ricardo Villagrán. Paralelamente, Nippur continúa apareciendo en D´artagnan pero con dibujos de Mulko y en blanco y negro.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |   | Nippur cabalga hacia Tebas | Robin Wood | Lucho Olivera |  |
 |   | El sumerio ha llegado | Robin Wood | Lucho Olivera |  |
@@ -79,9 +82,10 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | La epidemia | Robin Wood | Sergio Mulko |  |
 
 
-3.- 1972/1973: Flashbacks.<br/><br/>El comic book de Nippur representa para Robin Wood un buen medio<br/>para darle forma más acabada al pasado del protagonista y presentar<br/>un par de personajes secundarios que, en el futuro, serán<br/>determinantes en la vida de Nippur. El hombre de Lagash vuelve a<br/>enamorarse, pero esta vez de Karien la Roja, reina de las amazonas,<br/>con quien - pese a las distancias - mantendrá un romance eterno.<br/>También conoce a Hattusil, el hitita jorobado - considerado el mejor<br/>guerrero del planeta - quien pasa a convertirse en el mejor de sus<br/>amigos. En una suerte de inserto dentro de la continuidad, se cuenta<br/>la infancia de Nippur; su educación en manos de "El Anciano", un<br/>famoso instructor de príncipes, y la historia de su primer amor. Del<br/>mismo modo, la historia de Nippur retrocede hacía las épocas<br/>inmediatamente posteriores en que, junto a Ur-El y Teseo, vencieron<br/>al Minotauro: es curioso ver a un Nippur sin barba, de no más de<br/>diecisiete años, absolutamente juvenil y despreocupado, guerreando<br/>contra bellas amazonas.
+### 3.- 1972/1973: Flashbacks.
+El comic book de Nippur representa para Robin Wood un buen medio para darle forma más acabada al pasado del protagonista y presentar un par de personajes secundarios que, en el futuro, serán determinantes en la vida de Nippur. El hombre de Lagash vuelve a enamorarse, pero esta vez de Karien la Roja, reina de las amazonas, con quien - pese a las distancias - mantendrá un romance eterno. También conoce a Hattusil, el hitita jorobado - considerado el mejor guerrero del planeta - quien pasa a convertirse en el mejor de sus amigos. En una suerte de inserto dentro de la continuidad, se cuenta la infancia de Nippur; su educación en manos de "El Anciano", un famoso instructor de príncipes, y la historia de su primer amor. Del mismo modo, la historia de Nippur retrocede hacía las épocas inmediatamente posteriores en que, junto a Ur-El y Teseo, vencieron al Minotauro: es curioso ver a un Nippur sin barba, de no más de diecisiete años, absolutamente juvenil y despreocupado, guerreando contra bellas amazonas.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |   | La risa de la muerte | Robin Wood | Ricardo Villagrán |  |
 |   | Un caballo muerto es un augurio | Robin Wood | Ricardo Villagrán |  |
@@ -98,7 +102,7 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 
 ## 1973-1974(en Revista D'Artagnan y Nippur de Lagash*)
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |   | Los niños que cabalgan en las estrellas | Robin Wood | Sergio Mulko |  |  |
 |   | Las flores de la muerte | Robin Wood | Sergio Mulko |  |  |
@@ -153,7 +157,7 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 
 ## 1975-1979(en Revista D'Artagnan)
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
 | :---: | :---: | :---: | :---: | :---: |
 |   | El pueblo del pantano | Robin Wood | Sergio Mulko |  |
 |   | Las amazonas de las tinieblas | Robin Wood | Sergio Mulko |  |
