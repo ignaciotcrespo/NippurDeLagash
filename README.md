@@ -78,3 +78,21 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | Mis gloriosos compañeros | Robin Wood | Sergio Mulko |  |
 |   | La gran batalla | Robin Wood | Sergio Mulko |  |
 |   | La epidemia | Robin Wood | Sergio Mulko |  |
+
+
+3.- 1972/1973: Flashbacks.<br/><br/>El comic book de Nippur representa para Robin Wood un buen medio<br/>para darle forma más acabada al pasado del protagonista y presentar<br/>un par de personajes secundarios que, en el futuro, serán<br/>determinantes en la vida de Nippur. El hombre de Lagash vuelve a<br/>enamorarse, pero esta vez de Karien la Roja, reina de las amazonas,<br/>con quien - pese a las distancias - mantendrá un romance eterno.<br/>También conoce a Hattusil, el hitita jorobado - considerado el mejor<br/>guerrero del planeta - quien pasa a convertirse en el mejor de sus<br/>amigos. En una suerte de inserto dentro de la continuidad, se cuenta<br/>la infancia de Nippur; su educación en manos de "El Anciano", un<br/>famoso instructor de príncipes, y la historia de su primer amor. Del<br/>mismo modo, la historia de Nippur retrocede hacía las épocas<br/>inmediatamente posteriores en que, junto a Ur-El y Teseo, vencieron<br/>al Minotauro: es curioso ver a un Nippur sin barba, de no más de<br/>diecisiete años, absolutamente juvenil y despreocupado, guerreando<br/>contra bellas amazonas.
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|   | La risa de la muerte | Robin Wood | Ricardo Villagrán |  |
+|   | Un caballo muerto es un augurio | Robin Wood | Ricardo Villagrán |  |
+|   | En Muna | Robin Wood | Ricardo Villagrán |  |
+|   | Los fabulosos jinetes de la tormenta | Robin Wood | Ricardo Villagrán |  |
+|   | El enemigo de los dioses | Robin Wood | Sergio Mulko |  |
+|   | Hazarham, el de los pájaros | Robin Wood | Sergio Mulko |  |
+|   | La lluvia sobre una espada | Robin Wood | Sergio Mulko |  |
+|   | Karien, en lo alto de las montañas | Robin Wood | Ricardo J. Villagrán |  |
+|   | Un bosque con árboles de amor y muerte | Robin Wood | Sergio Mulko |  |
+|   | Hattusil | Robin Wood | Ricardo Villagrán |  |
+|   | La ciudad | Robin Wood | Sergio Mulko |  |
+
