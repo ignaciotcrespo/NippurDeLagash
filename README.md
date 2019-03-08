@@ -62,3 +62,19 @@ Tabla de referencia de todos los capitulos de Nippur de Lagash, de Robin Wood
 |   | El juicio de la espada | Robin Wood | Lucho Olivera |  |
 |   | Los cortesanos y los guerreros | Robin Wood | Lucho Olivera |  |
 
+
+2.- 1971/1972: La saga de los hititas en Egipto.<br/><br/>A lo largo de once episodios, transcurre la primera saga de Nippur.<br/>Dibuja los guiones de Wood, lucho Olivera; pero a partir del séptimo<br/>capítulo de la saga, se hará cargo de los dibujos Sergio Mulko, al<br/>principio bastante condicionado por seguir el estilo de Olivera,<br/>pero luego mucho más interesante al seguir su propio camino. En la<br/>historieta, Nippur regresa a Egipto, tras años de vagabundear por el<br/>mundo, para salvar la patria de su amada reina Nofretamón, que esta<br/>a punto de ser invadida por los ejércitos hititas. Al frente del<br/>débil ejército egipcio, Nippur consigue la victoria valiéndose, en<br/>primer término, de un grupo de selectos bandoleros, y después,<br/>consiguiendo la alianza de "Los Hombres de Fuego", una letal secta<br/>de sacerdotes-guerreros. Al terminar la guerra, una epidemia sacude<br/>a Egipto y mata a Nofretamón. Nippur, negándose a aceptar el trono<br/>egipcio, regresa a sus caminos con el corazón roto. Finalizada a la<br/>saga, la Editorial Columba lanza al mercado la revista "Nippur de<br/>Lagash", un comic book a todo color, con historias de Robin Wood<br/>brillantemente ilustradas por Ricardo Villagrán. Paralelamente,<br/>Nippur continúa apareciendo en D´artagnan pero con dibujos de Mulko<br/>y en blanco y negro.
+
+|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** |
+| :---: | :---: | :---: | :---: | :---: |
+|   | Nippur cabalga hacia Tebas | Robin Wood | Lucho Olivera |  |
+|   | El sumerio ha llegado | Robin Wood | Lucho Olivera |  |
+|   | Inermes | Robin Wood | Lucho Olivera |  |
+|   | Los hombres de fuego | Robin Wood | Lucho Olivera |  |
+|   | Un divertido regreso a Tebas | Robin Wood | Lucho Olivera |  |
+|   | El águila | Robin Wood | Lucho Olivera |  |
+|   | Diez hombres pasan ante una cabeza muerta | Robin Wood | Sergio Mulko |  |
+|   | Ninarim | Robin Wood | Sergio Mulko |  |
+|   | Mis gloriosos compañeros | Robin Wood | Sergio Mulko |  |
+|   | La gran batalla | Robin Wood | Sergio Mulko |  |
+|   | La epidemia | Robin Wood | Sergio Mulko |  |
