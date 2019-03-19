@@ -72,20 +72,19 @@ http://www.robinwoodcomics.org/suspersonajes/index.php?id=1
 
 A lo largo de once episodios, transcurre la primera saga de Nippur. Dibuja los guiones de Wood, Lucho Olivera, pero a partir del séptimo capítulo de la saga, se hará cargo Sergio Mulko, al principio bastante condicionado por seguir el estilo de Olivera, pero luego mucho más interesante al encontrar su propio camino. En la historieta, Nippur regresa a Egipto tras años de vagabundear por el mundo, para salvar la patria de su amada reina Nofretamón, que está a punto de ser invadida por los ejércitos hititas. Al frente del débil ejército egipcio, Nippur consigue la victoria valiéndose, en primer término, de un grupo de selectos bandoleros y, después, consiguiendo la alianza de "Los Hombres de Fuego", una letal secta de sacerdotes-guerreros. Al terminar la guerra, una epidemia sacude a Egipto y mata a Nofretamón. Nippur, negándose a aceptar el trono egipcio, regresa a sus caminos con el corazón roto. Finalizada a la saga, la Editorial Columba lanza al mercado la revista "Nippur de Lagash", un comic book a todo color, con historias de Robin Wood brillantemente ilustradas por Ricardo Villagrán. Paralelamente, Nippur continúa apareciendo en D’Artagnan pero con dibujos de Mulko y en blanco y negro.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
-| :---: | :---: | :---: | :---: | :---: |
-|   | Nippur cabalga hacia Tebas | Robin Wood | Lucho Olivera |  |
-|   | El sumerio ha llegado | Robin Wood | Lucho Olivera |  |
-|   | Inermes | Robin Wood | Lucho Olivera |  |
-|   | Los hombres de fuego | Robin Wood | Lucho Olivera |  |
-|   | Un divertido regreso a Tebas | Robin Wood | Lucho Olivera |  |
-|   | El águila | Robin Wood | Lucho Olivera |  |
-|   | Diez hombres pasan ante una cabeza muerta | Robin Wood | Sergio Mulko |  |
-|   | Ninarim | Robin Wood | Sergio Mulko |  |
-|   | Mis gloriosos compañeros | Robin Wood | Sergio Mulko |  |
-|   | La gran batalla | Robin Wood | Sergio Mulko |  |
-|   | La epidemia | Robin Wood | Sergio Mulko |  |
-
+|  **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** | **capitulo<br/>D'Agostini** | **Fecha** | **Revista** | **Formato** | **Påginas** | **Tapa** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  Nippur cabalga hacia Tebas | Robin Wood | Lucho Olivera | 8 | 54 | 1/12/1971 | D'Artagnan | Blanco y negro | 27 | Roja |
+|  El sumerio ha llegado | Robin Wood | Lucho Olivera | 8 | 55 | 1/1/1972 | Anuario D'Artagnan | Color | 39 | Roja |
+|  Inermes | Robin Wood | Lucho Olivera | 8 | 56 | 1/1/1972 | D'Artagnan | Blanco y negro | 54 | Roja |
+|  Los hombres de fuego | Robin Wood | Lucho Olivera | 8 | 57 | 1/2/1972 | D'Artagnan | Blanco y negro | 65 | Roja |
+|  Un divertido regreso a Tebas | Robin Wood | Lucho Olivera | 9 | 59 | 1/2/1972 | D'Artagnan | Blanco y negro | 5 | Azul |
+|  El águila | Robin Wood | Lucho Olivera | 8 | 58 | 1/2/1972 | D'Artagnan | Blanco y negro | 77 | Roja |
+|  Diez hombres pasan ante una cabeza muerta | Robin Wood | Sergio Mulko | 9 | 60 | 1/5/1972 | D'Artagnan | Blanco y negro | 17 | Azul |
+|  Ninarim | Robin Wood | Sergio Mulko | 9 | 61 | 1/6/1972 | D'Artagnan | Blanco y negro | 29 | Azul |
+|  Mis gloriosos compañeros | Robin Wood | Sergio Mulko | 9 | 62 | 1/6/1972 | D'Artagnan | Blanco y negro | 40 | Azul |
+|  La gran batalla | Robin Wood | Sergio Mulko | 9 | 63 | 1/7/1972 | D'Artagnan | Blanco y negro | 52 | Azul |
+|  La epidemia | Robin Wood | Sergio Mulko | 9 | 64 | 1/8/1972 | D'Artagnan | Blanco y negro | 64 | Azul |
 
 ### 3.- 1972/1973: Flashbacks.
 http://www.robinwoodcomics.org/suspersonajes/index.php?id=1
