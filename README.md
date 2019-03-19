@@ -91,20 +91,19 @@ http://www.robinwoodcomics.org/suspersonajes/index.php?id=1
 
 El comic book de Nippur representa para Robin Wood un buen medio para darle forma más acabada al pasado del protagonista y presentar un par de personajes secundarios que, en el futuro, serán determinantes en la vida de Nippur. El hombre de Lagash vuelve a enamorarse, pero esta vez de Karien la Roja, reina de las amazonas, con quien, pese a las distancias, mantendrá un romance eterno. También conoce a Hattusil, el hitita jorobado - considerado el mejor guerrero del planeta - quien pasa a convertirse en el mejor de sus amigos. En una suerte de inserto dentro de la continuidad, se cuenta la infancia de Nippur; su educación en manos de "El Anciano", un famoso instructor de príncipes, y la historia de su primer amor. Del mismo modo, la historia de Nippur retrocede hacia las épocas inmediatamente posteriores a las que, junto a Ur-El y Teseo, vencieron al Minotauro: es curioso ver a un Nippur sin barba, de no más de diecisiete años, absolutamente juvenil y despreocupado, guerreando contra bellas amazonas.
 
-|  **CAPITULO** | **TITULO** | **GUION** | **DIBUJO** | **tomo planeta d'agostini** |
-| :---: | :---: | :---: | :---: | :---: |
-|   | La risa de la muerte | Robin Wood | Ricardo Villagrán |  |
-|   | Un caballo muerto es un augurio | Robin Wood | Ricardo Villagrán |  |
-|   | En Muna | Robin Wood | Ricardo Villagrán |  |
-|   | Los fabulosos jinetes de la tormenta | Robin Wood | Ricardo Villagrán |  |
-|   | El enemigo de los dioses | Robin Wood | Sergio Mulko |  |
-|   | Hazarham, el de los pájaros | Robin Wood | Sergio Mulko |  |
-|   | La lluvia sobre una espada | Robin Wood | Sergio Mulko |  |
-|   | Karien, en lo alto de las montañas | Robin Wood | Ricardo J. Villagrán |  |
-|   | Un bosque con árboles de amor y muerte | Robin Wood | Sergio Mulko |  |
-|   | Hattusil | Robin Wood | Ricardo Villagrán |  |
-|   | La ciudad | Robin Wood | Sergio Mulko |  |
-
+|  **TITULO** | **GUION** | **DIBUJO** | **tomo<br/>planeta<br/>d'agostini** | **capitulo<br/>D'Agostini** | **Fecha** | **Revista** | **Formato** | **Påginas** | **Tapa** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  La risa de la muerte | Robin Wood | Ricardo Villagrán | 9 | 65 | 1/7/1972 | Nippur de Lagash-Todo Color | Color | 76 | Azul |
+|  Un caballo muerto es un augurio | Robin Wood | Ricardo Villagrán | 10 | 66 | 1/8/1972 | Nippur de Lagash-Todo Color | Color | 5 | Naranja |
+|  En Muna | Robin Wood | Ricardo Villagrán | 10 | 68 | 1/9/1972 | Nippur de Lagash-Todo Color | Color | 37 | Naranja |
+|  Los fabulosos jinetes de la tormenta | Robin Wood | Ricardo Villagrán | 10 | 67 | 1/8/1972 | Nippur de Lagash-Todo Color | Color | 21 | Naranja |
+|  El enemigo de los dioses | Robin Wood | Sergio Mulko | 10 | 69 | 1/9/1972 | D'Artagnan | Blanco y negro | 53 | Naranja |
+|  Hazarham, el de los pájaros | Robin Wood | Sergio Mulko | 10 | 70 | 1/10/1972 | D'Artagnan | Blanco y negro | 64 | Naranja |
+|  La lluvia sobre una espada | Robin Wood | Sergio Mulko | 10 | 71 | 1/11/1972 | D'Artagnan | Blanco y negro | 76 | Naranja |
+|  Karien, en lo alto de las montañas | Robin Wood | Ricardo J. Villagrán | 11 | 72 | 1/11/72 | Nippur de Lagash-Todo Color | Color | 5 | Verde |
+|  Un bosque con árboles de amor y muerte | Robin Wood | Sergio Mulko | 11 | 73 | 1/12/72 | D'Artagnan | Blanco y negro | 21 | Verde |
+|  Hattusil | Robin Wood | Ricardo Villagrán | 11 | 74 | 1/11/72 | Nippur de Lagash-Todo Color | Color | 33 | Verde |
+|  La ciudad | Robin Wood | Sergio Mulko | 11 | 75 | 1/12/72 | D'Artagnan | Blanco y negro | 49 | Verde |
 
 ## 1973-1974(en Revista D'Artagnan y Nippur de Lagash*)
 
